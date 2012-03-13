@@ -1,0 +1,9 @@
+{
+"id": "com.palmdts.enyo.article",
+"version": "1.0.0",
+"vendor": "open webOS",
+"type": "web",
+"main": "index.html",
+"title": "Enyo PhoneGap Article",
+"uiRevision": 2
+}
